@@ -1,9 +1,0 @@
-/bin/
-
-.settings
-.project
-.classpath
-target/
-test-output/
-node_modules/**
-.orig
